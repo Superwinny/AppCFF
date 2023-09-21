@@ -18,3 +18,13 @@ export class SearchComponent implements OnInit{
     });
   }
 }
+
+
+
+/**
+ * Suqellete HTML
+ * Button pour valider le formulaire (avec console log pour voir les info)
+ * Transmettre les info a une methode pour la requette AJAX + afficher la reponse (console log)
+ * naviguer dans la page result et afficher le resultat de la requette (pipe|json)
+ *
+  */
